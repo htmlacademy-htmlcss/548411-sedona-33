@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Антонина Манжела](https://up.htmlacademy.ru/htmlcss/33/user/548411).
-* Наставник: `Дмитрий Гуляев` (https://htmlacademy.ru/profile/dima).
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
